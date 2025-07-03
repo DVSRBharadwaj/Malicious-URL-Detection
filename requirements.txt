@@ -1,0 +1,11 @@
+streamlit
+bcrypt
+transformers
+torch
+stable-baselines3==2.3.2
+gym==0.25.2
+numpy
+pandas
+gdown
+flask
+flask-session
